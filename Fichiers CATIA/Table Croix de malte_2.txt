@@ -1,0 +1,2 @@
+E (mm)	`Nombre de rainures`	L (mm)	r (mm)	jeu (mm)	e1 (mm)	e2 (mm)	ra (mm)
+150	6	70	5	0.5	2.5	10	20
